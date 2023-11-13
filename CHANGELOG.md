@@ -1,3 +1,7 @@
+# v1.0.1
+ - add version select
+ - add file `.htaccess`
+
 # v1.0.0
 - iFrame holder
 

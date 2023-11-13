@@ -11,3 +11,9 @@
     height: 100%;
     border: none;
 }
+
+.select-version{
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
