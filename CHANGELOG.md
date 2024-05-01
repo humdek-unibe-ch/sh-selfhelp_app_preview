@@ -1,3 +1,6 @@
+# v1.0.12
+ - add version 3.2.9
+
 # v1.0.11
  - add version 3.2.7
 
