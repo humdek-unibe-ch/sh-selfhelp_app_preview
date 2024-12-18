@@ -1,3 +1,6 @@
+# v1.0.19
+ - add version 3.4.3
+
 # v1.0.18
  - add version 3.4.1
 
